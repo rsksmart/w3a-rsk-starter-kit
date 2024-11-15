@@ -6,7 +6,7 @@ import { cn, formatAdress } from "@/lib/utils";
 import Copy from "./Copy";
 import Button from "./ui/Button";
 import SignMessage from "./SignMessage";
-import SendTransaction from "./SendTransaction";
+import { SendTransaction } from "./SendTransaction";
 
 export default function Web3AuthSection({
   login,

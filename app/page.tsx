@@ -78,29 +78,10 @@ function App() {
     }
   };
 
-  const getUserInfo = async () => {
-    const user = await web3auth.getUserInfo();
-    return user;
-  };
-
   const logout = async () => {
     await web3auth.logout();
     setProvider(null);
     setLoggedIn(false);
-  };
-
-  const signMessage = async () => {
-    if (!provider) {
-      return;
-    }
-    const signedMessage = await RPC.signMessage(provider);
-  };
-
-  const sendTransaction = async () => {
-    if (!provider) {
-      return;
-    }
-    const transactionReceipt = await RPC.sendTransaction(provider);
   };
 
   return (
