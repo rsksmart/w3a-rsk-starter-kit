@@ -17,8 +17,7 @@ import Web3AuthSection from "@/components/Web3AuthSection";
 import RPC from "./viemRPC";
 import Footer from "@/components/Footer";
 
-const clientId =
-  "BPi5PB_UiIZ-cPz1GtV5i1I2iOSOHuimiXBI0e-Oe_u6X3oVAbCiAZOTEBtTXw4tsluTITPqA8zMsfxIKMjiqNQ"; // get from https://dashboard.web3auth.io
+const clientId = "YOUR_CLIENT_ID"; // get from https://dashboard.web3auth.io
 
 const chainConfig = {
   chainNamespace: CHAIN_NAMESPACES.EIP155,
