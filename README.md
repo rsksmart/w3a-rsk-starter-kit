@@ -1,7 +1,7 @@
-# Web3Auth (`@web3auth/single-factor-auth`) QuickStart - Next.js
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/rsksmart/rsk-runes/badge)](https://scorecard.dev/viewer/?uri=github.com/rsksmart/rsk-runes)
+[![CodeQL](https://github.com/rsksmart/rskj/workflows/CodeQL/badge.svg)](https://github.com/rsksmart/rsk-runes/actions?query=workflow%3ACodeQL)
 
-[![Web3Auth](https://img.shields.io/badge/Web3Auth-SDK-blue)](https://web3auth.io/docs/sdk/core-kit/sfa-web)
-[![Web3Auth](https://img.shields.io/badge/Web3Auth-Community-cyan)](https://community.web3auth.io)
+<img src="rootstock-logo.png" alt="RSK Logo" style="width:100%; height: auto;" />
 
 [Join our Community Portal](https://community.web3auth.io/) to get support and stay up to date with the latest news and updates.
 
