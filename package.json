@@ -24,7 +24,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "ethers": "^6.13.2",
-    "firebase": "^10.13.0",
+    "firebase": "^11.0.2",
     "lucide-react": "^0.464.0",
     "next": "15.0.3",
     "pino-pretty": "^13.0.0",
